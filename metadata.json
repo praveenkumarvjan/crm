@@ -1,0 +1,6 @@
+{
+  "name": "PulseCRM Bharat: WhatsApp & Masked Virtual Dialer for India",
+  "description": "Enterprise WhatsApp CRM for Indian businesses with automated lead sync, TRAI-compliant phone number masking, virtual DID calling, and secure call logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
